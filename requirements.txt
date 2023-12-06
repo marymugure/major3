@@ -3,6 +3,4 @@ pandas==2.1.1
 pipreqs==0.4.13
 plotly==5.17.0
 scikit-learn==1.3.0
-scipy==1.11.3
-sklearn==0.0.post11
 streamlit==1.28.2
